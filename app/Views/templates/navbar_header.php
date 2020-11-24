@@ -8,7 +8,7 @@
                       <!------LOGO-------->
                      <div class="logo-img">
                         <a href="<?=site_url('')?>">
-                        <img src="assets/img/logoiceeie.png" width="300px" height="100px" alt="">
+                        <img src="assets/img/logoiceeie.png" height="100px" style="width: auto" alt="">
                         </a>
                      </div>
                      <!------./LOGO-------->
@@ -22,7 +22,7 @@
                               <li><a href="<?=site_url('/comittee');?>">Comittee</a></li>
                               <li><a href="<?=site_url('/topics');?>">Topics</a></li>
                               <li>
-                                 <a href="#">Conference Programs<i class="ti-angle-down"></i></a>
+                                 <a href="#">Conference Programs<i class="ti-angle-down ml-1"></i></a>
                                  <ul class="submenu">
                                     <li><a href="<?=site_url('/conference/venue');?>">Conference Venue</a></li>
                                     <li><a href="<?=site_url('/conference/fee');?>">Conference Fee</a></li>
@@ -31,7 +31,7 @@
                               </li>
                               <li><a href="<?=site_url('/travel');?>">Travel</a></li>
                               <li>
-                                 <a href="#">For Authors<i class="ti-angle-down"></i></a>
+                                 <a href="#">For Authors<i class="ti-angle-down ml-1"></i></a>
                                  <ul class="submenu">
                                     <li><a href="<?=site_url('/paper/submission');?>">Paper Submission</a></li>
                                     <li><a href="<?=site_url('/paper/dates');?>">Important Dates</a></li>
