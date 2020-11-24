@@ -24,8 +24,5 @@
       <script>eval(mod_pagespeed_268wgGhhr4);</script>
       <script>eval(mod_pagespeed_gyBBL6mqoV);</script>
       <script>eval(mod_pagespeed_h7AqWCPWlQ);</script>
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
-      <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-23581568-13');</script>
    </body>
 </html>
