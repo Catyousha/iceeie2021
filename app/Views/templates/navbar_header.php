@@ -8,7 +8,7 @@
                       <!------LOGO-------->
                      <div class="logo-img">
                         <a href="<?=site_url('')?>">
-                        <img src="assets/img/logoiceeie.png" height="100px" style="width: auto" alt="">
+                        <img src="assets/img/logoiceeie.png" class="img-fluid" alt="">
                         </a>
                      </div>
                      <!------./LOGO-------->
@@ -17,10 +17,10 @@
                      <div class="main-menu d-none d-lg-block">
                         <nav>
                            <ul id="navigation">
-                              <li><a class="active" href="<?=site_url('/main-page');?>">Home</a></li>
-                              <li><a href="<?=site_url('/paper-status');?>">Paper Status</a></li>
-                              <li><a href="<?=site_url('/comittee');?>">Comittee</a></li>
-                              <li><a href="<?=site_url('/topics');?>">Topics</a></li>
+                              <li><a class="<?= $nav == 1 ? 'active': '' ?>" href="/">Home</a></li>
+                              <li><a class="<?= $nav == 2 ? 'active': '' ?>" href="<?=site_url('/paper-status');?>">Paper Status</a></li>
+                              <li><a class="<?= $nav == 3 ? 'active': '' ?>" href="<?=site_url('/comittee');?>">Comittee</a></li>
+                              <li><a class="<?= $nav == 4 ? 'active': '' ?>" href="<?=site_url('/topics');?>">Topics</a></li>
                               <li>
                                  <a href="#">Conference Programs<i class="ti-angle-down ml-1"></i></a>
                                  <ul class="submenu">
@@ -43,7 +43,7 @@
                         </nav>
                     </div>
                   </div>
-                  <div class="col-12">
+                  <div class="col-12 align-content-center">
                      <div class="mobile_menu d-block d-lg-none"></div>
                   </div>
                </div>
