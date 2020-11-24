@@ -3,15 +3,16 @@
         <div class="slider_text">
            <div class="container">
               <div class="position_relv">
-                 <h1 class="opcity_text d-none d-lg-block">CONFIRENCE</h1>
+                 <h1 class="opcity_text d-none d-lg-block">ICEEIE 2021</h1>
                  <div class="row">
                     <div class="col-xl-9">
                        <div class="title_text">
-                          <h3>Digital Design <br>
-                             Conference <br>
-                             2019 NYC
+                          <h3> WELCOME TO<br>
+                             ICEEIE <br>
+                             2021 MALANG
                           </h3>
-                          <a href="#" class="boxed-btn-white">Add to your Calendar</a>
+                          <h3 style="font-weight: normal; font-size: 24px; line-height: 30px;">2021 The 7th International Conference on Electrical, Electronics and Information Engineering is organized by Electrical Engineering Department, Universitas Negeri Malang.</h3>
+                          <a href="#" class="boxed-btn-white">Call For Paper</a>
                        </div>
                     </div>
                  </div>
@@ -24,13 +25,13 @@
                  <div class="col-xl-4 col-md-6 col-lg-4">
                     <div class="single_date">
                        <i class="ti-location-pin"></i>
-                       <span>City Hall, New York City</span>
+                       <span>Malang, East Java, Indonesia</span>
                     </div>
                  </div>
                  <div class="col-xl-3 col-md-6 col-lg-3">
                     <div class="single_date">
                        <i class="ti-alarm-clock"></i>
-                       <span>12-15 Sep 2019</span>
+                       <span>7 August 2021</span>
                     </div>
                  </div>
                  <div class="col-xl-5 col-md-12 col-lg-5">
@@ -43,290 +44,196 @@
      <!-- slider_area_end -->
      <!-- about_area_start -->
      <div class="about_area">
-        <div class="shape-1 d-none d-xl-block">
-           <img src="img/about/xshap1.png.pagespeed.ic.uhTfhfyGJ6.png" alt="">
-        </div>
-        <div class="shape-2 d-none d-xl-block">
-           <img src="img/about/shap2.png" alt="">
-        </div>
         <div class="container">
-           <div class="row align-items-center">
-              <div class="col-xl-6 col-md-6">
-                 <div class="about_thumb">
-                    <img src="img/about/about.png" alt="">
-                 </div>
-              </div>
-              <div class="col-xl-5 offset-xl-1 col-md-6">
+           <div class="row">
+              <div class="col-xl-9 offset-xl-1 col-md-12">
                  <div class="about_info">
                     <div class="section_title">
-                       <span class="sub_heading">Welcome To</span>
-                       <h3>The Biggest Design <br>
-                          Conference of the <br>
-                          Year 2019
-                       </h3>
+                       <span class="sub_heading">ICEEIE 2021</span>
+                       <h3>Tema-kegiatan-goes-here</h3>
                     </div>
-                    <p>Our set he for firmament morning sixth subdue darkness creeping gathered divide our let god.
-                       moving. Moving in fourth air night bring upon you’re it beast.
+                    <div class="logo-img">
+                        <a href="<?=site_url('')?>">
+                        <img src="assets/img/logoiceeie.png" width="300px" height="100px" alt="">
+                        </a>
+                     </div>
+                    <p class="text-justify mb-0">
+                        The 6th International Conference on Electrical, Electronics and Information Engineering ( ICEEIE 2021) is organized by Electrical Engineering Department, Universitas Negeri Malang (State University of Malang) supported by its partners which is to be held in Malang (Indonesia). The  ICEEIE 2021 has been recorded in <a href="http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=47180">IEEE with ID Number is 47180</a> for the Technical Co-Sponsor. In general, the  ICEEIE 2021 is presented in series for increasing quality and management associated with previous events for 2009 The 1st National Seminar on Electrical, Electronic and Its Education (SNEIE 2009), 2011 The 2nd National Seminar on Electrical Engineering, Informatics and its Education (SEEIE 2011), 2013 The 3rd Seminar on Electrical Engineering, Informatics and its Education (SNEEIE 2013), 2015 The 4th International Conference on Electrical Engineering, Informatics, 2017 The 5th International Conference on Electrical Engineering, Informatics, and its Education (ICEEIE 2015). 
                     </p>
-                    <a href="#" class="boxed-btn-red">Learn More</a>
+                    <p class="text-justify mb-0">
+                        As the international event of Electrical Engineering Department, Universitas Negeri Malang (State University of Malang), the  ICEEIE 2021 is presented to serve as a platform for international exchange of ideas, collaborations and cooperation. The main objective of  ICEEIE 2021 is to provide a scientific forum for scholars, lecturers, researchers and practitioners to exchange their ideas and innovations on the latest trends or novel results in the field of electrical, electronics and information engineering for bridging future technologies. The novel invention or results are strongly innovations on the exploitation of works and experiments throughout the accuracy analysis and interpretations for increasing positive impacts of future technologies around the world exchanges. Moreover, the scope of this worldwide meeting is to explore state of the art research covering a variety of concepts, ideas and breaking problems. 
+                    </p>
+                    <p class="text-justify mb-0">
+                        Prospective authors are invited to submit abstract or full papers electronically through the conference management system. The  ICEEIE 2021 also invites presenters from academia, government, industry and others. Submissions will be accepted on the basis of a peer review process. 
+                    </p>
+                    <p class="text-justify mb-0">
+                        The papers accepted and registered by  ICEEIE 2021 must be presented on the conference’s date, and presented papers will be submitted to the <a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEEE Xplore digital library</a> after the conference. Moreover, the extended paper will be submitted to the SCOPUS indexed journal <a href="http://ijain.org/">(International Journal of Advances in Intelligent Informatics, ISSN : 2442-6571)</a> based on the journal regulations after modifying the contents/title associated with main works on the presented paper.
+                    </p>
                  </div>
               </div>
            </div>
         </div>
      </div>
-     <!-- about_area_end -->
-     <!-- speakers_start -->
-     <div class="speakers_area">
+
+     <div class="keynote_speaker" style="padding-bottom: 0px !important;">
         <h1 class="horizontal_text d-none d-lg-block">
-           Speakers
+           Keynote Speaker
         </h1>
         <div class="container">
            <div class="row">
               <div class="col-xl-12">
                  <div class="serction_title_large mb-95">
                     <h3>
-                       Speakers
+                       Keynote Speaker
                     </h3>
                  </div>
               </div>
            </div>
            <div class="row">
-              <div class="col-xl-5 col-md-6">
+              <div class="col-xl-3 col-md-6">
                  <div class="single_speaker">
                     <div class="speaker_thumb">
-                       <img src="img/speakers/x1.png.pagespeed.ic.h5zBQBXFS_.jpg" alt="">
-                       <div class="hover_overlay">
-                          <div class="social_icon">
-                             <a href="#"><i class="fa fa-facebook"></i></a>
-                             <a href="#"><i class="fa fa-instagram"></i></a>
-                             <a href="#"><i class="fa fa-twitter"></i></a>
-                          </div>
-                       </div>
+                       <img src="assets/img/speakers/x1.png.pagespeed.ic.h5zBQBXFS_.jpg" alt="">
                     </div>
-                    <div class="speaker_name text-center">
-                       <h3>Jonson Miller</h3>
-                       <p>Creative Director</p>
-                    </div>
-                 </div>
-                 <div class="single_speaker">
-                    <div class="speaker_thumb">
-                       <img src="img/speakers/3.png" alt="">
-                       <div class="hover_overlay">
-                          <div class="social_icon">
-                             <a href="#"><i class="fa fa-facebook"></i></a>
-                             <a href="#"><i class="fa fa-instagram"></i></a>
-                             <a href="#"><i class="fa fa-twitter"></i></a>
-                          </div>
-                       </div>
-                    </div>
-                    <div class="speaker_name text-center">
-                       <h3>Albert Jackey</h3>
-                       <p>Product Designer</p>
+
+                    <div class="speaker_name text-center pt-4">
+                       <h4>Prof. Martin Ebner, Ph.D.</h4>
+                       <hr>
+                       <p>Graz University of Technology</p>
                     </div>
                  </div>
               </div>
-              <div class="col-xl-5 offset-xl-2 col-md-6">
-                 <div class="single_speaker">
+              <div class="col-xl-3 col-md-6">
+                  <div class="single_speaker">
                     <div class="speaker_thumb">
-                       <img src="img/speakers/2.png" alt="">
-                       <div class="hover_overlay">
-                          <div class="social_icon">
-                             <a href="#"><i class="fa fa-facebook"></i></a>
-                             <a href="#"><i class="fa fa-instagram"></i></a>
-                             <a href="#"><i class="fa fa-twitter"></i></a>
-                          </div>
-                       </div>
+                       <img src="assets/img/speakers/x1.png.pagespeed.ic.h5zBQBXFS_.jpg" alt="">
                     </div>
-                    <div class="speaker_name text-center">
-                       <h3>Marked Macau</h3>
-                       <p>UI/UX Designer</p>
+
+                    <div class="speaker_name text-center pt-4">
+                       <h4>Prof. Dr. Taufik</h4>
+                       <hr>
+                       <p>California Polytechnic State University, USA</p>
                     </div>
                  </div>
+              </div>
+              <div class="col-xl-3 col-md-6">
                  <div class="single_speaker">
                     <div class="speaker_thumb">
-                       <img src="img/speakers/x1.png.pagespeed.ic.h5zBQBXFS_.jpg" alt="">
-                       <div class="hover_overlay">
-                          <div class="social_icon">
-                             <a href="#"><i class="fa fa-facebook"></i></a>
-                             <a href="#"><i class="fa fa-instagram"></i></a>
-                             <a href="#"><i class="fa fa-twitter"></i></a>
-                          </div>
-                       </div>
+                       <img src="assets/img/speakers/x1.png.pagespeed.ic.h5zBQBXFS_.jpg" alt="">
                     </div>
-                    <div class="speaker_name text-center">
-                       <h3>Kelvin Cooper</h3>
-                       <p>Art Director</p>
+
+                    <div class="speaker_name text-center pt-4">
+                       <h4>Prof. Chen Shih Chung, Ph.D.</h4>
+                       <hr>
+                       <p>Southern Taiwan University of Science and Technology, Taiwan</p>
+                    </div>
+                 </div>
+              </div>
+              <div class="col-xl-3 col-md-6">
+                  <div class="single_speaker">
+                    <div class="speaker_thumb">
+                       <img src="assets/img/speakers/x1.png.pagespeed.ic.h5zBQBXFS_.jpg" alt="">
+                    </div>
+
+                    <div class="speaker_name text-center pt-4">
+                       <h4>Dr. Eng. Anik Nur Handayani, S.T., M.T.</h4>
+                       <hr>
+                       <p>Universitas Negeri Malang, Indonesia</p>
                     </div>
                  </div>
               </div>
            </div>
         </div>
      </div>
-     <!-- speakers_end-->
-     <!-- event_area_start -->
-     <div class="event_area">
-        <h1 class="vr_text d-none d-lg-block">Event Schedule</h1>
-        <div class="container">
-           <div class="double_line">
-              <div class="row">
-                 <div class="col-xl-3 col-lg-3">
-                    <div class="date">
-                       <h3>08 Sep 2019</h3>
-                    </div>
-                 </div>
-                 <div class="col-xl-9 col-lg-9">
-                    <div class="single_speaker">
-                       <img src="img/speakers/seaker1.png" alt="">
-                       <div class="speaker-name">
-                          <div class="heading d-flex justify-content-between align-items-center">
-                             <span>Jonson Miller</span>
-                             <div class="time">
-                                10-11 am
-                             </div>
-                          </div>
-                          <p>Our set he for firmament morning sixth subdue darkness creeping gathered divide our
-                             let
-                             god moving.
-                             Moving in fourth air night bring upon you’re it beast let you dominion 
-                          </p>
-                       </div>
-                    </div>
-                    <div class="single_speaker">
-                       <img src="img/speakers/seaker2.png" alt="">
-                       <div class="speaker-name">
-                          <div class="heading d-flex justify-content-between align-items-center">
-                             <span>Albert Jackey</span>
-                             <div class="time">
-                                12-1.00 pm
-                             </div>
-                          </div>
-                          <p>Our set he for firmament morning sixth subdue darkness creeping gathered divide our
-                             let
-                             god moving.
-                             Moving in fourth air night bring upon you’re it beast let you dominion 
-                          </p>
-                       </div>
-                    </div>
-                    <div class="single_speaker">
-                       <img src="img/speakers/seaker3.png" alt="">
-                       <div class="speaker-name">
-                          <div class="heading d-flex justify-content-between align-items-center">
-                             <span>Alvi Nourin</span>
-                             <div class="time">
-                                2.30-4.00 pm
-                             </div>
-                          </div>
-                          <p>Our set he for firmament morning sixth subdue darkness creeping gathered divide our
-                             let
-                             god moving.
-                             Moving in fourth air night bring upon you’re it beast let you dominion 
-                          </p>
-                       </div>
-                    </div>
-                 </div>
-              </div>
-           </div>
-           <div class="row">
-              <div class="col-xl-3 col-lg-3">
-                 <div class="date">
-                    <h3>09 Sep 2019</h3>
-                 </div>
-              </div>
-              <div class="col-xl-9 col-lg-9">
-                 <div class="single_speaker">
-                    <img src="img/speakers/seaker4.png" alt="">
-                    <div class="speaker-name">
-                       <div class="heading d-flex justify-content-between align-items-center">
-                          <span>Marked Macau</span>
-                          <div class="time">
-                             10-11 am
-                          </div>
-                       </div>
-                       <p>Our set he for firmament morning sixth subdue darkness creeping gathered divide our let
-                          god moving.
-                          Moving in fourth air night bring upon you’re it beast let you dominion 
-                       </p>
-                    </div>
-                 </div>
-                 <div class="single_speaker">
-                    <img src="img/speakers/seaker5.png" alt="">
-                    <div class="speaker-name">
-                       <div class="heading d-flex justify-content-between align-items-center">
-                          <span>Jonson Miller</span>
-                          <div class="time">
-                             12-1.00 pm
-                          </div>
-                       </div>
-                       <p>Our set he for firmament morning sixth subdue darkness creeping gathered divide our let
-                          god moving.
-                          Moving in fourth air night bring upon you’re it beast let you dominion 
-                       </p>
-                    </div>
-                 </div>
-                 <div class="single_speaker">
-                    <img src="img/speakers/seaker6.png" alt="">
-                    <div class="speaker-name">
-                       <div class="heading d-flex justify-content-between align-items-center">
-                          <span>Jonson Miller</span>
-                          <div class="time">
-                             2.30-4.00 pm
-                          </div>
-                       </div>
-                       <p>Our set he for firmament morning sixth subdue darkness creeping gathered divide our let
-                          god moving.
-                          Moving in fourth air night bring upon you’re it beast let you dominion 
-                       </p>
-                    </div>
-                 </div>
-              </div>
-           </div>
-        </div>
-     </div>
-     <!-- event_area_end -->
-     <!-- resister_book_start -->
-     <div class="resister_book resister_bg_1">
+
+     <div class="keynote_speaker" style="padding-top: 0px !important;">
+        <h1 class="horizontal_text d-none d-lg-block pb-5">
+           Gallery
+        </h1>
         <div class="container">
            <div class="row">
               <div class="col-xl-12">
-                 <div class="resister_text text-center">
-                    <h3>Register Now to Book <br>
-                       Your Presence
+                 <div class="serction_title_large mb-5">
+                    <h3>
+                       Gallery
                     </h3>
-                    <a href="#" class="boxed-btn-white">Book Now ($150) </a>
                  </div>
               </div>
            </div>
+           <div class="section-top-border">
+               <h3>ICEEIE 2019</h3>
+               <div class="row gallery-item">
+                  <div class="col-md-4">
+                     <a href="assets/img/elements/g1.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/elements/g1.jpg);"></div>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a href="assets/img/elements/g2.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/elements/g2.jpg);"></div>
+                     </a>
+                  </div>
+               </div>
+               <br><h3>ICEEIE 2017</h3>
+               <div class="row gallery-item">
+                  <div class="col-md-4">
+                     <a href="assets/img/elements/g3.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/elements/g3.jpg);"></div>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a href="assets/img/elements/g4.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/elements/g4.jpg);"></div>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a href="assets/img/elements/g5.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/elements/g5.jpg);"></div>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a href="assets/img/elements/g6.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/elements/g6.jpg);"></div>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a href="assets/img/elements/g7.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/elements/g7.jpg);"></div>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a href="assets/img/elements/g8.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/elements/g8.jpg);"></div>
+                     </a>
+                  </div>
+               </div>
+               <br><h3>ICEEIE 2015</h3>
+               <div class="row gallery-item">
+                  <div class="col-md-4">
+                     <a href="assets/img/elements/g1.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/elements/g1.jpg);"></div>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a href="assets/img/elements/g2.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/elements/g2.jpg);"></div>
+                     </a>
+                  </div>
+               </div>
+               <br><h3>ICEEIE 2011</h3>
+               <div class="row gallery-item">
+                  <div class="col-md-4">
+                     <a href="assets/img/elements/g1.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/elements/g1.jpg);"></div>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a href="assets/img/elements/g2.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/elements/g2.jpg);"></div>
+                     </a>
+                  </div>
+               </div>
+            </div>
+         </div>
         </div>
      </div>
-     <!-- resister_book_end -->
-     <!-- brand_area_start -->
-     <div class="brand_area">
-        <div class="container">
-           <div class="row">
-              <div class="col-xl-12">
-                 <div class="brand_active owl-carousel">
-                    <div class="single_brand text-center">
-                       <img src="img/barnd/x1.png.pagespeed.ic.DVTeJoY2-D.png" alt="">
-                    </div>
-                    <div class="single_brand text-center">
-                       <img src="img/barnd/x2.png.pagespeed.ic.5CrKFhKDlR.png" alt="">
-                    </div>
-                    <div class="single_brand text-center">
-                       <img src="img/barnd/x3.png.pagespeed.ic.CUDHK5V6jx.png" alt="">
-                    </div>
-                    <div class="single_brand text-center">
-                       <img src="img/barnd/4.png" alt="">
-                    </div>
-                    <div class="single_brand text-center">
-                       <img src="img/barnd/5.png" alt="">
-                    </div>
-                    <div class="single_brand text-center">
-                       <img src="img/barnd/6.png" alt="">
-                    </div>
-                 </div>
-              </div>
-           </div>
-        </div>
-     </div>
-     <!-- brand_area_end -->
-     <!-- faq_area_Start -->

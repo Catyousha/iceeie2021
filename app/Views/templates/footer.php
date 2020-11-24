@@ -3,43 +3,63 @@
          <div class="footer_top">
             <div class="container">
                <div class="row">
-                  <div class="col-xl-4 col-md-4 col-lg-4">
+                  <div class="col-xl-3 col-md-3 col-lg-3">
                      <div class="footer_widget">
                         <h3 class="footer_title">
-                           Follow Us
-                        </h3>
-                        <ul>
-                           <li><a target="_blank" href="#">Facebook</a></li>
-                           <li><a target="_blank" href="#">Twitter</a></li>
-                           <li><a target="_blank" href="#">Instagram</a></li>
-                           <li><a target="_blank" href="#">Youtube</a></li>
-                        </ul>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-md-4 col-lg-4">
-                     <div class="footer_widget">
-                        <h3 class="footer_title">
-                           Links
-                        </h3>
-                        <ul>
-                           <li><a target="_blank" href="schedule-2.html">Schedule</a></li>
-                           <li><a target="_blank" href="speakers-2.html">Speakers</a></li>
-                           <li><a target="_blank" href="contact.html">Contact</a></li>
-                        </ul>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-md-4 col-lg-4">
-                     <div class="footer_widget">
-                        <h3 class="footer_title">
-                           Venue
-                        </h3>
-                        <p>
-                           200, D-block, Green lane USA <br>
-                           edumark@contact.com <br>
-                           +10 367 467 8934
+                           ICEEIE 2021 Secretariat
+                        </h3><hr>
+                           <p class="mb-0">Electrical Engineering Department</p>
+                           <p class="mb-0">Universitas Negeri Malang</p>
+                           <p class="mb-0"> H5 Building, Jl. Semarang No. 5</p>
+                           <p class="mb-0">Malang 65145 Indonesia</p>
                         </p>
                      </div>
                   </div>
+                  <div class="col-xl-9 col-md-9 col-lg-9">
+                    <div class="row">
+                        <div class="col-xl-4 col-md-4 col-lg-4">
+                        <div class="footer_widget">
+                            <h3 class="footer_title">
+                            Organized by
+                            </h3>
+                            <div class="container p-3 text-center" style="border-radius: 10px; background: white;">
+                                <img src="assets/img/logoiceeie.png" width="66px" height="50px" alt="Logo UM" class="img responsive-img logo-footer px-2">
+                                <img src="assets/img/logoiceeie.png" width="66px" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
+                                <!--<img src="../img/hme.png" alt="Logo HME" class="img responsive-img logo-footer px-2">-->
+                                <img src="assets/img/logoiceeie.png" width="66px" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
+                            </div>
+                        </div>
+                        </div>
+                        <div class="col-xl-4 col-md-4 col-lg-4">
+                            <div class="footer_widget">
+                                <h3 class="footer_title">
+                                Technical Sponsor
+                                </h3>
+                                <div class="container p-3 text-center" style="border-radius: 10px; background: white;">
+                                    <img src="assets/img/logoiceeie.png" width="66px" height="50px" alt="Logo UM" class="img responsive-img logo-footer px-2">
+                                    <img src="assets/img/logoiceeie.png" width="66px" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
+                                    <!--<img src="../img/hme.png" alt="Logo HME" class="img responsive-img logo-footer px-2">-->
+                                    <img src="assets/img/logoiceeie.png" width="66px" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-md-4 col-lg-4">
+                            <div class="footer_widget">
+                                <h3 class="footer_title">
+                                Supported By
+                                </h3>
+                                <div class="container p-3 text-center" style="border-radius: 10px; background: white;">
+                                    <img src="assets/img/logoiceeie.png" width="66px" height="50px" alt="Logo UM" class="img responsive-img logo-footer px-2">
+                                    <img src="assets/img/logoiceeie.png" width="66px" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
+                                    <!--<img src="../img/hme.png" alt="Logo HME" class="img responsive-img logo-footer px-2">-->
+                                    <img src="assets/img/logoiceeie.png" width="66px" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                  </div>
+
+
                </div>
             </div>
          </div>

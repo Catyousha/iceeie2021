@@ -7,7 +7,7 @@
                   <div class="col-xl-1 col-lg-1">
                       <!------LOGO-------->
                      <div class="logo-img">
-                        <a href="index-2.html">
+                        <a href="<?=site_url('')?>">
                         <img src="assets/img/logoiceeie.png" width="300px" height="100px" alt="">
                         </a>
                      </div>
