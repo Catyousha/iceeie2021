@@ -34,9 +34,6 @@
                        <span>7 August 2021</span>
                     </div>
                  </div>
-                 <div class="col-xl-5 col-md-12 col-lg-5">
-                    <span id="clock"></span>
-                 </div>
               </div>
            </div>
         </div>
@@ -54,7 +51,7 @@
                     </div>
                     <div class="logo-img">
                         <a href="<?=site_url('')?>">
-                        <img src="assets/img/logoiceeie.png" width="300px" height="100px" alt="">
+                            <img src="assets/img/logoiceeie.png" height="100px" style="width: auto;" alt="">
                         </a>
                      </div>
                     <p class="text-justify mb-0">
