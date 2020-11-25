@@ -174,59 +174,59 @@
                <br><h3>ICEEIE 2017</h3>
                <div class="row gallery-item">
                   <div class="col-md-4">
-                     <a href="assets/img/elements/g3.jpg" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/elements/g3.jpg);"></div>
+                     <a href="assets/img/gallery/2017-1.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2017-1.jpg);"></div>
                      </a>
                   </div>
                   <div class="col-md-4">
-                     <a href="assets/img/elements/g4.jpg" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/elements/g4.jpg);"></div>
+                     <a href="assets/img/gallery/2017-2.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2017-2.jpg);"></div>
                      </a>
                   </div>
                   <div class="col-md-4">
-                     <a href="assets/img/elements/g5.jpg" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/elements/g5.jpg);"></div>
+                     <a href="assets/img/gallery/2017-3.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2017-3.jpg);"></div>
                      </a>
                   </div>
                   <div class="col-md-4">
-                     <a href="assets/img/elements/g6.jpg" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/elements/g6.jpg);"></div>
+                     <a href="assets/img/gallery/2017-4.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2017-4.jpg);"></div>
                      </a>
                   </div>
                   <div class="col-md-4">
-                     <a href="assets/img/elements/g7.jpg" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/elements/g7.jpg);"></div>
+                     <a href="assets/img/gallery/2017-5.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2017-5.jpg);"></div>
                      </a>
                   </div>
                   <div class="col-md-4">
-                     <a href="assets/img/elements/g8.jpg" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/elements/g8.jpg);"></div>
-                     </a>
-                  </div>
-               </div>
-               <br><h3>ICEEIE 2015</h3>
-               <div class="row gallery-item">
-                  <div class="col-md-4">
-                     <a href="assets/img/elements/g1.jpg" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/elements/g1.jpg);"></div>
-                     </a>
-                  </div>
-                  <div class="col-md-4">
-                     <a href="assets/img/elements/g2.jpg" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/elements/g2.jpg);"></div>
+                     <a href="assets/img/gallery/2017-6.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2017-6.jpg);"></div>
                      </a>
                   </div>
                </div>
-               <br><h3>ICEEIE 2011</h3>
+               <br><h3>CEIE 2015</h3>
                <div class="row gallery-item">
                   <div class="col-md-4">
-                     <a href="assets/img/elements/g1.jpg" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/elements/g1.jpg);"></div>
+                     <a href="assets/img/gallery/2015_1.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2015_1.jpg);"></div>
                      </a>
                   </div>
                   <div class="col-md-4">
-                     <a href="assets/img/elements/g2.jpg" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/elements/g2.jpg);"></div>
+                     <a href="assets/img/gallery/2015_2.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2015_2.jpg);"></div>
+                     </a>
+                  </div>
+               </div>
+               <br><h3>SEIE 2011</h3>
+               <div class="row gallery-item">
+                  <div class="col-md-4">
+                     <a href="assets/img/gallery/2011_1.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2011_1.jpg);"></div>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a href="assets/img/gallery/2011_2.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2011_2.jpg);"></div>
                      </a>
                   </div>
                </div>

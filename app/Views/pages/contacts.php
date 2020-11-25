@@ -16,20 +16,19 @@
                                     <tr>
                                         <td><strong>Office Address</strong></td>
                                         <td> : </td>
-                                        <td>H5 Building, Jl. Semarang No. 5 Malang 65145 Indonesia</td>
+                                        <td>B11 Building. Jl Semarang No. 5, Malang 65154, East Java, Indonesia.</td>
                                     </tr>
                                     <tr>
                                         <td><strong>Contact Person</strong></td>
                                         <td> : </td>
                                         <td>
-                                            Whatsapp :+628223463224 <hr>
-                                            SMS/Line :+628223463224 
+                                        +62 822-4443-4011<br>+62 818-0514-4480
                                         </td>
                                     </tr>
                                     <tr>
                                         <td><strong>Email</strong></td>
                                         <td> : </td>
-                                        <td>iceeie@um.ac.id, mokh.sholihul.ft@um.ac.id</td>
+                                        <td>iceeie@um.ac.id</td>
                                     </tr>
                                 </tbody>
                             </table>
