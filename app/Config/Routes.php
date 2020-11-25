@@ -34,6 +34,8 @@ $routes->get('/', 'Home::index');
 
 $routes->get('/paper-status', 'Home::paperStatus');
 
+$routes->get('/topics', 'Home::topics');
+
 /**
  * --------------------------------------------------------------------
  * Additional Routing
