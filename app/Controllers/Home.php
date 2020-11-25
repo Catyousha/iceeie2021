@@ -24,4 +24,15 @@ class Home extends BaseController{
         echo view('templates/script_footer');
     }
 
+
+    /**
+     * Paper Status
+     */
+	public function topics(){
+        echo view('templates/header');
+        echo view('templates/navbar_header');
+        echo view('pages/topics');
+        echo view('templates/footer');
+        echo view('templates/script_footer');
+    }
 }
