@@ -60,6 +60,21 @@ class Home extends BaseController{
     }
 
     /**
+     * Conference
+     * @param string section
+     */
+    public function conference($section){
+        if(!in_array($section, ['venue', 'fee', 'schedule'])){
+            throw \CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound();
+        }
+        echo view('templates/header');
+        echo view('templates/navbar_header');
+        echo view('pages/conference-'.$section);
+        echo view('templates/footer');
+        echo view('templates/script_footer');
+    }
+
+    /**
      * Contacts
      */
     public function contacts(){

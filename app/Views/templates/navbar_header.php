@@ -8,7 +8,7 @@
                       <!------LOGO-------->
                      <div class="logo-img">
                         <a href="<?=site_url('')?>">
-                        <img src="/assets/img/logoiceeie.png" class="img-fluid" alt="">
+                        <img src="<?=base_url('assets/img/logoiceeie.png');?>" class="img-fluid" alt="">
                         </a>
                      </div>
                      <!------./LOGO-------->
