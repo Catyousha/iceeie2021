@@ -8,7 +8,7 @@
                       <!------LOGO-------->
                      <div class="logo-img">
                         <a href="<?=site_url('')?>">
-                        <img src="assets/img/logoiceeie.png" class="img-fluid" alt="">
+                        <img src="/assets/img/logoiceeie.png" class="img-fluid" alt="">
                         </a>
                      </div>
                      <!------./LOGO-------->
@@ -31,10 +31,10 @@
                               </li>
                               <li><a href="<?=site_url('/travel');?>">Travel</a></li>
                               <li>
-                                 <a href="#">For Authors<i class="ti-angle-down ml-1"></i></a>
+                                 <a class="<?= current_url(true)->getSegment(1) == 'paper' ? 'active': '' ?>" href="#">For Authors<i class="ti-angle-down ml-1"></i></a>
                                  <ul class="submenu">
                                     <li><a href="<?=site_url('/paper/submission');?>">Paper Submission</a></li>
-                                    <li><a href="<?=site_url('/paper/dates');?>">Important Dates</a></li>
+                                    <li><a href="<?=site_url('/paper/important-dates');?>">Important Dates</a></li>
                                     <li><a href="<?=site_url('/paper/template');?>">Template</a></li>
                                  </ul>
                               </li>

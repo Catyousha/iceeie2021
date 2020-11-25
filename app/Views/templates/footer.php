@@ -25,8 +25,8 @@
                                     Organized by
                                 </h3>
                                 <div class="container p-3 text-center" style="border-radius: 10px; background: white;">
-                                    <img src="assets/img/logo/um_logo.png" height="50px" alt="Logo UM" class="img responsive-img logo-footer px-2">
-                                    <img src="assets/img/logo/um_brand.png" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
+                                    <img src="/assets/img/logo/um_logo.png" height="50px" alt="Logo UM" class="img responsive-img logo-footer px-2">
+                                    <img src="/assets/img/logo/um_brand.png" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
                                 </div>
                             </div>
                         </div>
@@ -36,7 +36,7 @@
                                     Technical Sponsor
                                 </h3>
                                 <div class="container p-3 text-center" style="border-radius: 10px; background: white;">
-                                    <img src="assets/img/logo/ina_section.jpg" height="50px" alt="IEEE Sponsor" class="img responsive-img logo-footer px-2">
+                                    <img src="/assets/img/logo/ina_section.jpg" height="50px" alt="IEEE Sponsor" class="img responsive-img logo-footer px-2">
                                 </div>
                             </div>
                         </div>
@@ -46,9 +46,9 @@
                                     Supported By
                                 </h3>
                                 <div class="container p-3 text-center" style="border-radius: 10px; background: white;">
-                                    <img src="assets/img/logoiceeie.png" height="50px" alt="Logo UM" class="img responsive-img logo-footer px-2">
-                                    <img src="assets/img/logoiceeie.png" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
-                                    <img src="assets/img/logoiceeie.png" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
+                                    <img src="/assets/img/logoiceeie.png" height="50px" alt="Logo UM" class="img responsive-img logo-footer px-2">
+                                    <img src="/assets/img/logoiceeie.png" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
+                                    <img src="/assets/img/logoiceeie.png" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
                                 </div>
                             </div>
                         </div>

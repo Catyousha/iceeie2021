@@ -36,6 +36,11 @@ $routes->get('/paper-status', 'Home::paperStatus');
 $routes->get('/topics', 'Home::topics');
 $routes->get('/committee', 'Home::committee');
 $routes->get('/contacts', 'Home::contacts');
+
+$routes->get('/paper/submission', 'Home::paperSubmission');
+$routes->get('/paper/important-dates', 'Home::paperImportantDates');
+$routes->get('/paper/template', 'Home::paperTemplate');
+
 /**
  * --------------------------------------------------------------------
  * Additional Routing

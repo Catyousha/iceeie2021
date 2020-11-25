@@ -39,6 +39,27 @@ class Home extends BaseController{
     }
 
     /**
+     * Paper > Submission
+     */
+    public function paperSubmission(){
+        $this->view('pages/paper-submission');
+    }
+
+    /**
+     * Paper > Important Dates
+     */
+    public function paperImportantDates(){
+        $this->view('pages/paper-important-dates');
+    }
+
+    /**
+     * Paper > Template
+     */
+    public function paperTemplate(){
+        $this->view('pages/paper-template');
+    }
+
+    /**
      * Contacts
      */
     public function contacts(){
