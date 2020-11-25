@@ -33,10 +33,9 @@ $routes->setAutoRoute(true);
 $routes->get('/', 'Home::index');
 
 $routes->get('/paper-status', 'Home::paperStatus');
-
 $routes->get('/topics', 'Home::topics');
 $routes->get('/committee', 'Home::committee');
-
+$routes->get('/contacts', 'Home::contacts');
 /**
  * --------------------------------------------------------------------
  * Additional Routing

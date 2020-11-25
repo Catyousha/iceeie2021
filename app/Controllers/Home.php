@@ -45,4 +45,15 @@ class Home extends BaseController{
         echo view('templates/footer');
         echo view('templates/script_footer');
     }
+
+    /**
+     * Contacts
+     */
+    public function contacts(){
+        echo view('templates/header');
+        echo view('templates/navbar_header');
+        echo view('pages/contacts');
+        echo view('templates/footer');
+        echo view('templates/script_footer');
+    }
 }

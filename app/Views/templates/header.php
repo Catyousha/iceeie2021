@@ -16,4 +16,5 @@
 <link rel="stylesheet" href="<?=base_url('assets/css/style.css');?>">
 <link rel="stylesheet" href="<?=base_url('assets/css/responsive.css');?>">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+<link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet">
 </head>
