@@ -1,5 +1,5 @@
 <!-- footer_start -->
-<footer class="footer footer_bg_1">
+<footer class="footer" style="background: rgb(197,80,88);background: linear-gradient(47deg, rgba(197,80,88,1) 0%, rgba(29,130,156,1) 26%, rgba(29,130,156,1) 55%, rgba(244,167,9,1) 100%);">
     <div class="footer_top">
         <div class="container">
             <div class="row">
