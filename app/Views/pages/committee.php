@@ -3,7 +3,7 @@
         <div class="container">
             <div class="position_relv">
                 <div class="row">
-                    <div class="col-xl-8 col-lg-8">
+                    <div class="col-12">
                         <h3 class="display-3 mb-4">Committee</h3>
 
                         <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -22,14 +22,14 @@
                                 <div class="table-responsive">
                                     <table class="table table-bordered" style="border-radius:20px">
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Chairman</td>
+                                            <td class="bg-info text-white">Chairman</td>
                                             <td>Assoc. Prof. A.N. Afandi (Universitas Negeri Malang, Indonesia)</td>
                                         </tr>
 
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Members</td>
+                                            <td class="bg-info text-white">Members</td>
                                             <td>
-                                                <ul style="list-style-type: disc;">
+                                                <ul class="unordered-list">
                                                     <li>Prof. Adit Kurniawan (Institut Teknologi Bandung, Indonesia) </li>
                                                     <li>Prof. Afaq Ahmad (Sultan Qaboos University, Oman) </li>
                                                     <li>Prof. Arun Dev Dhar Dwivedi (University of Bordeaux, Singapore) </li>
@@ -86,14 +86,14 @@
                                 <div class="table-responsive">
                                     <table class="table table-bordered" style="border-radius:20px">
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Chairman</td>
+                                            <td class="bg-info text-white">Chairman</td>
                                             <td>Aji Prasetya Wibawa, S.T., M.M.T., Ph.D. (Universitas Negeri Malang, Indonesia)</td>
                                         </tr>
 
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Members</td>
+                                            <td class="bg-info text-white">Members</td>
                                             <td>
-                                                <ul>
+                                                <ul class="unordered-list">
                                                     <li>Prof. Abdelbadeh Salem (Ain Shams University, Egypt) </li>
                                                     <li>Prof. Alberto Cavazos (Universidad Autónoma de Nuevo León, Mexico) </li>
                                                     <li>Prof. Andrey Gnatov (Highway University, Ukraine) </li>
@@ -147,9 +147,9 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Reviewers</td>
+                                            <td class="bg-info text-white">Reviewers</td>
                                             <td>
-                                                <ul>
+                                                <ul class="unordered-list">
                                                     <li>Prof.Ir. Rukmi Sari Hartati, MT.,PhD</li>
                                                     <li>Prof.Ir. I. A. Dwi Giriantari, M.Eng,Sc., PhD</li>
                                                     <li>Ir. Linawati,M.Eng.Sc., Ph.D</li>
@@ -171,22 +171,22 @@
                                 <div class="table-responsive">
                                     <table class="table table-bordered" style="border-radius:20px">
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Responsible Person</td>
+                                            <td class="bg-info text-white">Responsible Person</td>
                                             <td>Head of Electrical Engineering Department</td>
                                         </tr>
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">General Conference Chairman</td>
+                                            <td class="bg-info text-white">General Conference Chairman</td>
                                             <td>Assoc. Prof. Dr. Eng. Mokh. Sholihul Hadi, S. T., M. Eng.</td>
                                         </tr>
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Vice Chairman</td>
+                                            <td class="bg-info text-white">Vice Chairman</td>
                                             <td>Ilham Ari Elbaith Zaeni, S. T., M. T., Ph. D.</td>
                                         </tr>
 
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Secretary</td>
+                                            <td class="bg-info text-white">Secretary</td>
                                             <td>
-                                                <ul>
+                                                <ul class="unordered-list">
                                                     <li>Dr. Eng. Anik Nur Handayani </li>
                                                     <li>Triyanna Widiyaningtyas, MT </li>
                                                     <li>Andriana Kusuma Dewi, MT </li>
@@ -199,13 +199,13 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Treasury</td>
+                                            <td class="bg-info text-white">Treasury</td>
                                             <td>Dyah Lestari, M.Eng</td>
                                         </tr>
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Paper Section</td>
+                                            <td class="bg-info text-white">Paper Section</td>
                                             <td>
-                                                <ul>
+                                                <ul class="unordered-list">
                                                     <li>Dr. Eng. Siti Sendari </li>
                                                     <li>Dila Umnia Soraya, M.Pd. </li>
                                                     <li>Fauzy Satrio Wibowo </li>
@@ -214,10 +214,10 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Publication and Documentation Section
+                                            <td class="bg-info text-white">Publication and Documentation Section
                                             </td>
                                             <td>
-                                                <ul>
+                                                <ul class="unordered-list">
                                                     <li>Didik Dwi Prasetya, MT </li>
                                                     <li>Muhammad Iqbal Akbar, M.MT </li>
                                                     <li>Utomo Pujianto, S.Kom., M.Kom. </li>
@@ -228,9 +228,9 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Parallel Section</td>
+                                            <td class="bg-info text-white">Parallel Section</td>
                                             <td>
-                                                <ul>
+                                                <ul class="unordered-list">
                                                     <li>Yuni Rahmawati, MT </li>
                                                     <li>Gres Dyah Kusuma, M.Pd. </li>
                                                     <li>Komang Oka Saputra, ST., MT.,Ph.D</li>
@@ -241,9 +241,9 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Partnership Section</td>
+                                            <td class="bg-info text-white">Partnership Section</td>
                                             <td>
-                                                <ul>
+                                                <ul class="unordered-list">
                                                     <li>Ahmad Fahmi, MT </li>
                                                     <li>Jauharul Fuady, MT </li>
                                                     <li>M. Zainal Arifin, M.Kom. </li>
@@ -256,9 +256,9 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="background-color:#0d6ca6; color:white;">Web Management</td>
+                                            <td class="bg-info text-white">Web Management</td>
                                             <td>
-                                                <ul>
+                                                <ul class="unordered-list">
                                                     <li>Martin Indra Wisnu P </li>
                                                     <li>M. Iqbal Fathurrozi </li>
                                                     <li>Faisal Aqil Amanullah</li>
