@@ -2,58 +2,46 @@
 
 class Home extends BaseController{
 
+    private function view($name){
+        echo view('templates/header');
+        echo view('templates/navbar_header');
+        echo view($name);
+        echo view('templates/footer');
+        echo view('templates/script_footer');
+    }
+
     /**
      * Home Page
      */
 	public function index(){
-		echo view('templates/header');
-		echo view('templates/navbar_header');
-		echo view('pages/main');
-		echo view('templates/footer');
-		echo view('templates/script_footer');
+		$this->view('pages/main');
 	}
 
 	/**
      * Paper Status
      */
 	public function paperStatus(){
-        echo view('templates/header');
-        echo view('templates/navbar_header');
-        echo view('pages/paper-status');
-        echo view('templates/footer');
-        echo view('templates/script_footer');
+        $this->view('pages/paper-status');
     }
 
     /**
      * Paper Status
      */
 	public function topics(){
-        echo view('templates/header');
-        echo view('templates/navbar_header');
-        echo view('pages/topics');
-        echo view('templates/footer');
-        echo view('templates/script_footer');
+        $this->view('pages/topics');
     }
 
     /**
      * Committee
      */
     public function committee(){
-        echo view('templates/header');
-        echo view('templates/navbar_header');
-        echo view('pages/committee');
-        echo view('templates/footer');
-        echo view('templates/script_footer');
+        $this->view('pages/committee');
     }
 
     /**
      * Contacts
      */
     public function contacts(){
-        echo view('templates/header');
-        echo view('templates/navbar_header');
-        echo view('pages/contacts');
-        echo view('templates/footer');
-        echo view('templates/script_footer');
+        $this->view('pages/contacts');
     }
 }
