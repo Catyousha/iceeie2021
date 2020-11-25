@@ -35,6 +35,7 @@ $routes->get('/', 'Home::index');
 $routes->get('/paper-status', 'Home::paperStatus');
 $routes->get('/topics', 'Home::topics');
 $routes->get('/committee', 'Home::committee');
+$routes->get('/conference/(:any)', 'Home::conference/$1');
 $routes->get('/contacts', 'Home::contacts');
 /**
  * --------------------------------------------------------------------
