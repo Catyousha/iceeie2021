@@ -1,11 +1,11 @@
-<div class="slider_area">
+<div class="slider_area slider_bg_1">
     <div class="slider_text">
         <div class="container">
             <div class="position_relv">
                 <div class="row">
                     <div class="col-xl-12 col-lg-12">
-                        <h3 class="display-3 mb-5">Contacts</h3>
-                        <div class="my-5">
+                        <h3 class="display-4 mb-5 text-white animated bounceInLeft">Contacts</h3>
+                        <div class="my-5 card card-body">
                             <table class="table table-hover font-weight-normal">
                                 <tbody>
                                     <tr>

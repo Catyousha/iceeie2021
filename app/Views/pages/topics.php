@@ -1,11 +1,11 @@
-<div class="slider_area">
+<div class="slider_area slider_bg_1">
     <div class="slider_text">
         <div class="container">
             <div class="position_relv">
                 <div class="row">
                     <div class="col-xl-12 col-lg-12">
-                        <h3 class="display-3 mb-4">Topics</h3>
-
+                        <h3 class="display-4 mb-4 text-white animated bounceInLeft">Topics</h3>
+                        <div class="card card-body">
                         <div class="row mb-4 pt-4">
                             <div class="col-xl-6 col-lg-6 col-md-12 mb-5">
                                 <h4><i class="fa fa-bolt fa-fw"></i> Electrical</h4>
@@ -83,6 +83,7 @@
                                 </ul>
                             </div>
 
+                        </div>
                         </div>
                     </div>
                 </div>
