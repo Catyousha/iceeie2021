@@ -24,5 +24,8 @@
       <script src="<?= base_url('assets/js/jquery.validate.min.js') ?>"></script>
       <script src="<?= base_url('assets/js/mail-script.js') ?>"></script>
       <script src="<?= base_url('assets/js/main.js') ?>"></script>
+      <script>
+          new WOW().init();
+      </script>
    </body>
 </html>

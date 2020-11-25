@@ -38,6 +38,7 @@ $routes->get('/committee', 'Home::committee');
 $routes->get('/conference/(:any)', 'Home::conference/$1');
 $routes->get('/contacts', 'Home::contacts');
 
+$routes->get('/travel', 'Home::travel');
 $routes->get('/paper/submission', 'Home::paperSubmission');
 $routes->get('/paper/important-dates', 'Home::paperImportantDates');
 $routes->get('/paper/template', 'Home::paperTemplate');

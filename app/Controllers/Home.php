@@ -39,6 +39,13 @@ class Home extends BaseController{
     }
 
     /**
+     * Travel
+     */
+    public function travel(){
+        $this->view('pages/travel');
+    }
+
+    /**
      * Paper > Submission
      */
     public function paperSubmission(){
