@@ -1065,7 +1065,7 @@ div#sticky-header {
 
  
 .slider_bg_1 {
-  background-image: url(../img/banner/banner_1.png);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(../img/background-img/kota-malang.jpg);
 }
 
  
