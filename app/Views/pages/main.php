@@ -158,7 +158,7 @@
               </div>
            </div>
            <div class="section-top-border">
-               <h3>ICEEIE 2019</h3>
+               <h3><a href="http://elektro.um.ac.id/iceeie/2019" class="btn-link">ICEEIE 2019</a></h3>
                <div class="row gallery-item">
                   <div class="col-md-4">
                      <a href="assets/img/elements/g1.jpg" class="img-pop-up">
@@ -171,7 +171,8 @@
                      </a>
                   </div>
                </div>
-               <br><h3>ICEEIE 2017</h3>
+               <br>
+               <h3><a href="http://elektro.um.ac.id/iceeie/2017" class="btn-link">ICEEIE 2019</a></h3>
                <div class="row gallery-item">
                   <div class="col-md-4">
                      <a href="assets/img/gallery/2017-1.jpg" class="img-pop-up">
@@ -204,7 +205,7 @@
                      </a>
                   </div>
                </div>
-               <br><h3>CEIE 2015</h3>
+               <br><h3><a href="javascript:void(0)" class="btn-link mb-0">CEIE 2015</a></h3>
                <div class="row gallery-item">
                   <div class="col-md-4">
                      <a href="assets/img/gallery/2015_1.jpg" class="img-pop-up">
@@ -217,7 +218,7 @@
                      </a>
                   </div>
                </div>
-               <br><h3>SEIE 2011</h3>
+               <br><h3><a href="javascript:void(0)" class="btn-link mb-0">SEIE 2011</a></h3>
                <div class="row gallery-item">
                   <div class="col-md-4">
                      <a href="assets/img/gallery/2011_1.jpg" class="img-pop-up">
