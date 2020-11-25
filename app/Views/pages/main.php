@@ -172,7 +172,7 @@
                   </div>
                </div>
                <br>
-               <h3><a href="http://elektro.um.ac.id/iceeie/2017" class="btn-link">ICEEIE 2019</a></h3>
+               <h3><a href="http://elektro.um.ac.id/iceeie/2017" class="btn-link">ICEEIE 2017</a></h3>
                <div class="row gallery-item">
                   <div class="col-md-4">
                      <a href="assets/img/gallery/2017-1.jpg" class="img-pop-up">
