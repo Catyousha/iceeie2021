@@ -22,14 +22,14 @@
                               <li><a class="<?= current_url(true)->getSegment(1) == 'committee' ? 'active': '' ?>" href="<?=site_url('/committee');?>">Committee</a></li>
                               <li><a class="<?= current_url(true)->getSegment(1) == 'topics' ? 'active': '' ?>" href="<?=site_url('/topics');?>">Topics</a></li>
                               <li>
-                                 <a href="#">Conference Programs<i class="ti-angle-down ml-1"></i></a>
+                                 <a class="<?= current_url(true)->getSegment(1) == 'conference' ? 'active': '' ?>" href="#">Conference Programs<i class="ti-angle-down ml-1"></i></a>
                                  <ul class="submenu">
                                     <li><a href="<?=site_url('/conference/venue');?>">Conference Venue</a></li>
                                     <li><a href="<?=site_url('/conference/fee');?>">Conference Fee</a></li>
                                     <li><a href="<?=site_url('/conference/schedule');?>">Program Schedule</a></li>
                                  </ul>
                               </li>
-                              <li><a href="<?=site_url('/travel');?>">Travel</a></li>
+                              <li><a class="<?= current_url(true)->getSegment(1) == 'travel' ? 'active': '' ?>" href="<?=site_url('/travel');?>">Travel</a></li>
                               <li>
                                  <a class="<?= current_url(true)->getSegment(1) == 'paper' ? 'active': '' ?>" href="#">For Authors<i class="ti-angle-down ml-1"></i></a>
                                  <ul class="submenu">
