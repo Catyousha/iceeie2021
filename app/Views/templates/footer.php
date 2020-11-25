@@ -12,7 +12,7 @@
                         <p class="mb-0" style="line-height: normal;">
                             Electrical Engineering Department<br>
                             Universitas Negeri Malang<br>
-                            H5 Building, Jl. Semarang No. 5<br>
+                            B12 Building, Jl. Semarang No. 5<br>
                             Malang 65145 Indonesia
                         </p>
                     </div>
