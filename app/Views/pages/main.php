@@ -90,7 +90,7 @@
               <div class="col-xl-3 col-md-6">
                  <div class="single_speaker">
                     <div class="speaker_thumb">
-                       <img src="assets/img/speakers/x1.png.pagespeed.ic.h5zBQBXFS_.jpg" alt="">
+                       <img src="assets/img/speakers/keynote1.png" alt="">
                     </div>
 
                     <div class="speaker_name text-center pt-4">
@@ -103,7 +103,7 @@
               <div class="col-xl-3 col-md-6">
                   <div class="single_speaker">
                     <div class="speaker_thumb">
-                       <img src="assets/img/speakers/x1.png.pagespeed.ic.h5zBQBXFS_.jpg" alt="">
+                       <img src="assets/img/speakers/keynote2.png" alt="">
                     </div>
 
                     <div class="speaker_name text-center pt-4">
@@ -116,7 +116,7 @@
               <div class="col-xl-3 col-md-6">
                  <div class="single_speaker">
                     <div class="speaker_thumb">
-                       <img src="assets/img/speakers/x1.png.pagespeed.ic.h5zBQBXFS_.jpg" alt="">
+                       <img src="assets/img/speakers/keynote3.png" alt="">
                     </div>
 
                     <div class="speaker_name text-center pt-4">
@@ -129,7 +129,7 @@
               <div class="col-xl-3 col-md-6">
                   <div class="single_speaker">
                     <div class="speaker_thumb">
-                       <img src="assets/img/speakers/x1.png.pagespeed.ic.h5zBQBXFS_.jpg" alt="">
+                       <img src="assets/img/speakers/keynote4.png" alt="">
                     </div>
 
                     <div class="speaker_name text-center pt-4">
