@@ -11,7 +11,7 @@
                                     <tr>
                                         <td><strong>Conference’s Office</strong></td>
                                         <td> : </td>
-                                        <td>Electrical Engineering, Universitas Negeri Malang</td>
+                                        <td>Electrical Engineering Department, Universitas Negeri Malang</td>
                                     </tr>
                                     <tr>
                                         <td><strong>Office Address</strong></td>

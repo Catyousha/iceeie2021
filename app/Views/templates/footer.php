@@ -3,7 +3,7 @@
     <div class="footer_top">
         <div class="container">
             <div class="row">
-                <div class="col-xl-4 col-md-4 col-lg-4">
+                <div class="col-xl-5 col-md-5 col-lg-5">
                     <div class="footer_widget">
                         <h3 class="footer_title">
                             ICEEIE 2021 Secretariat
@@ -17,7 +17,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-xl-8 col-md-8 col-lg-8">
+                <div class="col-xl-7 col-md-7 col-lg-7">
                     <div class="row">
                         <div class="col-xl-4 col-md-4 col-lg-4">
                             <div class="footer_widget">
@@ -40,18 +40,20 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-md-4 col-lg-4">
-                            <div class="footer_widget">
-                                <h3 class="footer_title">
-                                    Supported By
-                                </h3>
-                                <div class="container p-3 text-center" style="border-radius: 10px; background: white;">
-                                    <img src="<?=base_url('assets/img/logoiceeie.png');?>" height="50px" alt="Logo UM" class="img responsive-img logo-footer px-2">
-                                    <img src="<?=base_url('assets/img/logoiceeie.png');?>" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
-                                    <img src="<?=base_url('assets/img/logoiceeie.png');?>" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
+                        <?php /*
+                            <div class="col-xl-4 col-md-4 col-lg-4">
+                                <div class="footer_widget">
+                                    <h3 class="footer_title">
+                                        Supported By
+                                    </h3>
+                                    <div class="container p-3 text-center" style="border-radius: 10px; background: white;">
+                                        <img src="<?=base_url('assets/img/logoiceeie.png');?>" height="50px" alt="Logo UM" class="img responsive-img logo-footer px-2">
+                                        <img src="<?=base_url('assets/img/logoiceeie.png');?>" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
+                                        <img src="<?=base_url('assets/img/logoiceeie.png');?>" height="50px" alt="Logo Brand UM" class="img responsive-img logo-footer px-2">
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        */?>
                     </div>
                 </div>
 

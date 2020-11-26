@@ -25,7 +25,7 @@
                  <div class="col-xl-4 col-md-6 col-lg-4">
                     <div class="single_date">
                        <i class="ti-location-pin"></i>
-                       <span>Malang, East Java, Indonesia</span>
+                       <span>Universitas Negeri Malang<br>Malang, East Java, Indonesia</span>
                     </div>
                  </div>
                  <div class="col-xl-3 col-md-6 col-lg-3">
@@ -55,7 +55,7 @@
                         </a>
                      </div>
                     <p class="text-justify mb-0">
-                        The 7th International Conference on Electrical, Electronics and Information Engineering ( ICEEIE 2021) is organized by Electrical Engineering Department, Universitas Negeri Malang (State University of Malang) supported by its partners which is to be held in Malang (Indonesia). The  ICEEIE 2021 has been recorded in <a href="http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=47180">IEEE with ID Number is 47180</a> for the Technical Co-Sponsor. In general, the  ICEEIE 2021 is presented in series for increasing quality and management associated with previous events for 2009 The 1st National Seminar on Electrical, Electronic and Its Education (SNEIE 2009), 2011 The 2nd National Seminar on Electrical Engineering, Informatics and its Education (SEEIE 2011), 2013 The 3rd Seminar on Electrical Engineering, Informatics and its Education (SNEEIE 2013), 2015 The 4th International Conference on Electrical Engineering, Informatics, 2017 The 5th International Conference on Electrical Engineering, Informatics, and its Education (ICEEIE 2015).
+                        The 7th International Conference on Electrical, Electronics and Information Engineering ( ICEEIE 2021) is organized by Electrical Engineering Department, Universitas Negeri Malang (State University of Malang) supported by its partners which is to be held in Malang (Indonesia). The  ICEEIE 2021 has been recorded in <a href="http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=47180">IEEE with ID Number is 47180</a> for the Technical Co-Sponsor. In general, the  ICEEIE 2021 is presented in series for increasing quality and management associated with previous events for 2009 The 1st National Seminar on Electrical, Electronic and Its Education (SNEIE 2009), 2011 The 2nd National Seminar on Electrical Engineering, Informatics and its Education (SEEIE 2011), 2013 The 3rd Seminar on Electrical Engineering, Informatics and its Education (SNEEIE 2013), 2015 The 4th Conference on Electrical Engineering, Informatics (CEIE 2015), 2017 The 5th International Conference on Electrical Engineering, Informatics, and its Education (ICEEIE 2017), 2019 The 6th International Conference on Electrical, Electronics and Information Engineering (ICEEIE 2019) 
                     </p>
                     <p class="text-justify mb-0">
                         As the international event of Electrical Engineering Department, Universitas Negeri Malang (State University of Malang), the  ICEEIE 2021 is presented to serve as a platform for international exchange of ideas, collaborations and cooperation. The main objective of  ICEEIE 2021 is to provide a scientific forum for scholars, lecturers, researchers and practitioners to exchange their ideas and innovations on the latest trends or novel results in the field of electrical, electronics and information engineering for bridging future technologies. The novel invention or results are strongly innovations on the exploitation of works and experiments throughout the accuracy analysis and interpretations for increasing positive impacts of future technologies around the world exchanges. Moreover, the scope of this worldwide meeting is to explore state of the art research covering a variety of concepts, ideas and breaking problems. 
@@ -161,13 +161,28 @@
                <h3><a href="http://elektro.um.ac.id/iceeie/2019" class="btn-link">ICEEIE 2019</a></h3>
                <div class="row gallery-item">
                   <div class="col-md-4">
-                     <a href="assets/img/elements/g1.jpg" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/elements/g1.jpg);"></div>
+                     <a href="assets/img/gallery/2019-1.png" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-1.png);"></div>
                      </a>
                   </div>
                   <div class="col-md-4">
-                     <a href="assets/img/elements/g2.jpg" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/elements/g2.jpg);"></div>
+                     <a href="assets/img/gallery/2019-2.png" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-2.png);"></div>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a href="assets/img/gallery/2019-3.png" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-3.png);"></div>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a href="assets/img/gallery/2019-4.png" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-4.png);"></div>
+                     </a>
+                  </div>
+                  <div class="col-md-4">
+                     <a href="assets/img/gallery/2019-5.png" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-5.png);"></div>
                      </a>
                   </div>
                </div>

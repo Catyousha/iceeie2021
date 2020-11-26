@@ -5,8 +5,9 @@
             <div class="row">
                <div class="col-xl-12 col-lg-12">
                   <h3 class="display-4 mb-5 text-white animated bounceInLeft">Conference Schedule</h3>
-                  <div class="my-5 card card-body">
-                    <table class="table table-bordered" align="center">
+                  <div class="my-5 card card-body" style="padding: 150px;">
+                    <?php /*
+                      <table class="table table-bordered" align="center">
                         <tr>
                           <td style="background-color:#1D829C; color:white;"><div align="center"><strong>Time</strong></div></td>
                           <td style="background-color:#1D829C; color:white;"><strong>Programs</strong></td>
@@ -67,16 +68,27 @@
                           <td>Parallel Session II</td>
                           <td>Prime Plaza Hotel Sanur</td>
                         </tr>
-                      </table>
-                  </div>
+                      </table>*/
+                    ?>
+                    <h2 class="display-5 text-center">
+                      <i class="fa fa-dot-circle-o fa-fw animated infinite flash slower"></i>  
+                      To Be Announced
+                    </h2>
+                    </div>
                </div>
 
                <div class="col-xl-12 col-lg-12">
                   <h3 class="display-4 mb-5 text-white animated bounceInLeft">Parallel Schedule</h3>
-                  <div class="my-5 card card-body">
-                    <div align="center">
-                         <iframe src="https://drive.google.com/file/d/1LkVX6pkY6MnXIDaVAMQwV03rmQd6cBAz/preview" width="100%" height="500px"></iframe>
-                    </div>  
+                  <div class="my-5 card card-body" style="padding: 150px;">
+                    <?php /*
+                      <div align="center">
+                          <iframe src="https://drive.google.com/file/d/1LkVX6pkY6MnXIDaVAMQwV03rmQd6cBAz/preview" width="100%" height="500px"></iframe>
+                      </div>
+                    */?>
+                    <h2 class="display-5 text-center">
+                      <i class="fa fa-dot-circle-o fa-fw animated infinite flash slower"></i>  
+                      To Be Announced
+                    </h2>  
                   </div>
                </div>
             </div>

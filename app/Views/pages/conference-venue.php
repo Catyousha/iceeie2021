@@ -11,31 +11,26 @@
                            <i class="fas fa-map-marker-alt fa-5x"></i>
                         </div>
                         <div class="col-lg-11 col-md-8 mb-4">
-                            <h1 class="display-5">Malang, East Java</h1>
-                            <h3>Indonesia</h3>
+                            <h1 class="display-5">Universitas Negeri Malang</h1>
+                            <h3>Malang, East Java, Indonesia</h3>
                         </div>
                         <div class="col-lg-12">
-                            <img src="<?=base_url('assets/img/background-img/kota-malang.jpg');?>" class="img-fluid"/>
+                            <img src="<?=base_url('assets/img/background-img/UM-malang-1024x571.jpg');?>" class="img-fluid"/>
                         </div>
                         <div class="col-lg-12 mb-5">
                             <div class="row">
                                 <div class="col-lg-7">
                                 <br>
-                                <h4 class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                    Proin posuere magna vitae sapien sollicitudin aliquam.
-                                    Sed vel turpis sit amet tellus auctor ornare et id dolor.
-                                    Ut lobortis massa velit, eu finibus augue varius sed.
-                                    Praesent malesuada nulla in sem bibendum pretium.
-                                    Cras ultricies porta gravida. Vivamus sit amet ante sit amet urna aliquet posuere.
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean feugiat dolor quam, sit amet varius est suscipit ac.
-                                    Pellentesque porta ornare facilisis. Donec id eleifend felis, vel hendrerit felis. Praesent molestie lorem et quam malesuada tempor.
-                                    Nam ac erat eu erat vestibulum vestibulum. Aliquam elementum placerat nunc vitae ultricies.
-                                    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
-                                    Vivamus accumsan metus ante, eu viverra odio pharetra a.
+                                <h4 class="text-justify">The State University of Malang (Indonesian: Universitas Negeri Malang, abbreviated as UM),
+                                     formerly the Institute of Teacher Education and Educational Sciences of Malang (Indonesian: Institut Keguruan dan Ilmu Pendidikan Malang, abbreviated as IKIP Malang),
+                                     is one of the state universities in Indonesia. Located in Malang and Blitar, East Java, UM was established
+                                      in October 18, 1954 as PTPG Malang, as School of Education of Airlangga University, making it one of the oldest
+                                       teaching institutes in Indonesia. UM was separated from Airlangga University on 20 May 1964 to become IKIP Malang.
+                                        In 1999, IKIP Malang formally changed its status from an institute to a state university.
                                 </h4>
                                 </div>
                                 <div class="col-lg-4 mt-4">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.3642334656843!2d112.6152033147793!3d-7.961258994265867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e788281bdd08839%3A0xc915f268bffa831f!2sUniversitas%20Negeri%20Malang!5e0!3m2!1sid!2sid!4v1606307456018!5m2!1sid!2sid" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                                    <iframe class="ml-3" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.3642334656843!2d112.6152033147793!3d-7.961258994265867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e788281bdd08839%3A0xc915f268bffa831f!2sUniversitas%20Negeri%20Malang!5e0!3m2!1sid!2sid!4v1606307456018!5m2!1sid!2sid" width="300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                                 </div>
                             </div>
                         </div>

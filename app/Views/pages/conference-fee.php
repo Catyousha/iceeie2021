@@ -7,7 +7,7 @@
                   <h3 class="display-4 mb-5 text-white animated bounceInLeft">Conference Fee</h3>
                   <div class="my-5 card card-body">
                      <div class="container row">
-                        <div class="col s12" align="center">
+                        <div class="col s12 text-justify">
                            <h4>
                               The payment may be charged by an international bank transaction fee, its charge is not covered in the
                               conference’s fee. The authors should include an additional charge for the international bank transaction
@@ -60,7 +60,7 @@
                      <hr>
                      <br />
                      <div class="container row">
-                        <div class="col s12" align="center">
+                        <div class="col s12 text-justify">
                            <h4 class="sample-text">
                               The conference’s fees are decided in clustering rates for the author and audience. The author will be charged in
                               100% of the rate for the 1st paper but the next paper will be charged in 70% of the rate for the same author
@@ -128,7 +128,7 @@
                      </div>
                      <br />
                      <div class="container row">
-                        <div class="col" align="center">
+                        <div class="col text-justify">
                            <h4>
                               In additional, the ICEEIE 2021 has additional activities, but it is not included in the author’s registration
                               fee. All of authors can join in additional activities by adding extra fees associated with the event organizer
