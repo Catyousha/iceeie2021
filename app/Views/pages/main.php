@@ -12,7 +12,7 @@
                              2021 MALANG
                           </h3>
                           <h3 style="font-weight: normal; font-size: 24px; line-height: 30px;">2021 The 7th International Conference on Electrical, Electronics and Information Engineering is organized by Electrical Engineering Department, Universitas Negeri Malang.</h3>
-                          <a href="#" class="boxed-btn-white">Call For Paper</a>
+                          <a href="javascript:void(0)" class="boxed-btn-white">Call For Paper</a>
                        </div>
                     </div>
                  </div>
