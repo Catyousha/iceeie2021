@@ -7,7 +7,7 @@
 <title>ICEEIE 2021</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="shortcut icon" type="image/x-icon" href="img/favicon.html">
+<link rel="icon" type="image/png" href="/favicon-96x96.png"/>
 <link rel="stylesheet" href="/assets/css/bootstrap.min.css%2bowl.carousel.min.css%2bmagnific-popup.css%2bfont-awesome.min.css%2bthemify-icons.css.pagespeed.cc.eDb052HcU3.css""/>
 <link rel="stylesheet" href="<?=base_url('assets/css/nice-select.css');?>">
 <link rel="stylesheet" href="<?=base_url('assets/css/flaticon.css');?>">
