@@ -180,97 +180,34 @@
                                                 </tr>
                                                 <tr>
                                                     <td class="bg-info text-white">General Conference Chairman</td>
-                                                    <td>Assoc. Prof. Dr. Eng. Mokh. Sholihul Hadi, S. T., M. Eng.</td>
+                                                    <td>Ilham Ari Elbaith Zaeni, S.T., M.T., Ph.D.</td>
                                                 </tr>
                                                 <tr>
                                                     <td class="bg-info text-white">Vice Chairman</td>
-                                                    <td>Ilham Ari Elbaith Zaeni, S. T., M. T., Ph. D.</td>
+                                                    <td>Mahfud Jiono, S.Pd., M.Eng</td>
                                                 </tr>
 
                                                 <tr>
                                                     <td class="bg-info text-white">Secretary</td>
-                                                    <td>
-                                                        <ul class="unordered-list">
-                                                            <li>Dr. Eng. Anik Nur Handayani </li>
-                                                            <li>Triyanna Widiyaningtyas, MT </li>
-                                                            <li>Andriana Kusuma Dewi, MT </li>
-                                                            <li>Risky Amalia </li>
-                                                            <li>Sunarsih </li>
-                                                            <li>Pramitha </li>
-                                                            <li>Eka Putri D. W. </li>
-                                                            <li>Pamela Paula M. </li>
-                                                        </ul>
-                                                    </td>
+                                                    <td>Shofiyah Al Idrus, S.Pd, M.Pd</td>
                                                 </tr>
                                                 <tr>
                                                     <td class="bg-info text-white">Treasury</td>
-                                                    <td>Dyah Lestari, M.Eng</td>
+                                                    <td>Soraya Norma Mustika , S.T., M.Sc</td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="bg-info text-white">Paper Section</td>
+                                                    <td class="bg-info text-white">Paper Management</td>
                                                     <td>
                                                         <ul class="unordered-list">
-                                                            <li>Dr. Eng. Siti Sendari </li>
-                                                            <li>Dila Umnia Soraya, M.Pd. </li>
-                                                            <li>Fauzy Satrio Wibowo </li>
-                                                            <li>Whyna Agustin </li>
-                                                            <li>Gradiyanto Radityo Kusumo</li>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td class="bg-info text-white">Publication and Documentation Section
-                                                    </td>
-                                                    <td>
-                                                        <ul class="unordered-list">
-                                                            <li>Didik Dwi Prasetya, MT </li>
-                                                            <li>Muhammad Iqbal Akbar, M.MT </li>
-                                                            <li>Utomo Pujianto, S.Kom., M.Kom. </li>
-                                                            <li>Garry Asattar C. </li>
-                                                            <li>Roub Nizaar Ashidieqi</li>
-                                                            <li>Bagas Wahyu P. </li>
-                                                            <li>Ilham Taufiqi</li>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td class="bg-info text-white">Parallel Section</td>
-                                                    <td>
-                                                        <ul class="unordered-list">
-                                                            <li>Yuni Rahmawati, MT </li>
-                                                            <li>Gres Dyah Kusuma, M.Pd. </li>
-                                                            <li>Komang Oka Saputra, ST., MT.,Ph.D</li>
-                                                            <li>Yoga Divayana, Ph.D</li>
-                                                            <li>Dr. Nyoman Gunantara, ST., MT.</li>
-                                                            <li>Ni Made Ary Esta Dewi Wirastuti, S.T., M.Sc., Ph.D.</li>
+                                                            <li>Khoirudin Asfani, S.Pd., M.Pd.</li>
+                                                            <li>Arya Kusumawardana, S.Pd, M.T.</li>
                                                         </ul>
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="bg-info text-white">Partnership Section</td>
-                                                    <td>
-                                                        <ul class="unordered-list">
-                                                            <li>Ahmad Fahmi, MT </li>
-                                                            <li>Jauharul Fuady, MT </li>
-                                                            <li>M. Zainal Arifin, M.Kom. </li>
-                                                            <li>Agusta Rahmat Taufani, MT. </li>
-                                                            <li>Achmad Ilham R. </li>
-                                                            <li>Nuris Shobah S. </li>
-                                                            <li>Miftahul Huda </li>
-                                                            <li>Rifky Muzaki N. S. </li>
-                                                        </ul>
-                                                    </td>
+                                                    <td class="bg-info text-white">Publication and Web</td>
+                                                    <td>Achmad Hamdan, S.Pd, M.Pd</td>
                                                 </tr>
-                                                <tr>
-                                                    <td class="bg-info text-white">Web Management</td>
-                                                    <td>
-                                                        <ul class="unordered-list">
-                                                            <li>Martin Indra Wisnu P </li>
-                                                            <li>M. Iqbal Fathurrozi </li>
-                                                            <li>Faisal Aqil Amanullah</li>
-                                                            <li>Bakhtiar Rosyad</li>
-                                                            <li>Hidayatul Hasanah</li>
-                                                    </td>
-                                                </tr>
-
                                             </table>
                                         </div>
                                     </div>
