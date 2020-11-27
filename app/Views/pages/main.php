@@ -90,7 +90,7 @@
               <div class="col-xl-3 col-md-6">
                  <div class="single_speaker">
                     <div class="speaker_thumb">
-                       <img src="assets/img/speakers/keynote1.png" alt="">
+                       <img src="assets/img/speakers/keynote1.jpg" alt="">
                     </div>
 
                     <div class="speaker_name text-center pt-4">
@@ -103,7 +103,7 @@
               <div class="col-xl-3 col-md-6">
                   <div class="single_speaker">
                     <div class="speaker_thumb">
-                       <img src="assets/img/speakers/keynote2.png" alt="">
+                       <img src="assets/img/speakers/keynote2.jpg" alt="">
                     </div>
 
                     <div class="speaker_name text-center pt-4">
@@ -116,7 +116,7 @@
               <div class="col-xl-3 col-md-6">
                  <div class="single_speaker">
                     <div class="speaker_thumb">
-                       <img src="assets/img/speakers/keynote3.png" alt="">
+                       <img src="assets/img/speakers/keynote3.jpg" alt="">
                     </div>
 
                     <div class="speaker_name text-center pt-4">
@@ -129,7 +129,7 @@
               <div class="col-xl-3 col-md-6">
                   <div class="single_speaker">
                     <div class="speaker_thumb">
-                       <img src="assets/img/speakers/keynote4.png" alt="">
+                       <img src="assets/img/speakers/keynote4.jpg" alt="">
                     </div>
 
                     <div class="speaker_name text-center pt-4">
@@ -161,28 +161,28 @@
                <h3><a href="http://elektro.um.ac.id/iceeie/2019" class="btn-link">ICEEIE 2019</a></h3>
                <div class="row gallery-item">
                   <div class="col-md-4">
-                     <a href="assets/img/gallery/2019-1.png" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-1.png);"></div>
+                     <a href="assets/img/gallery/2019-1.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-1.jpg);"></div>
                      </a>
                   </div>
                   <div class="col-md-4">
-                     <a href="assets/img/gallery/2019-2.png" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-2.png);"></div>
+                     <a href="assets/img/gallery/2019-2.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-2.jpg);"></div>
                      </a>
                   </div>
                   <div class="col-md-4">
-                     <a href="assets/img/gallery/2019-3.png" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-3.png);"></div>
+                     <a href="assets/img/gallery/2019-3.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-3.jpg);"></div>
                      </a>
                   </div>
                   <div class="col-md-4">
-                     <a href="assets/img/gallery/2019-4.png" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-4.png);"></div>
+                     <a href="assets/img/gallery/2019-4.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-4.jpg);"></div>
                      </a>
                   </div>
                   <div class="col-md-4">
-                     <a href="assets/img/gallery/2019-5.png" class="img-pop-up">
-                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-5.png);"></div>
+                     <a href="assets/img/gallery/2019-5.jpg" class="img-pop-up">
+                        <div class="single-gallery-image" style="background: url(assets/img/gallery/2019-5.jpg);"></div>
                      </a>
                   </div>
                </div>
