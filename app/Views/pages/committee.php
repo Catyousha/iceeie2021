@@ -1,14 +1,14 @@
-<div class="slider_area">
+<div class="slider_area slider_bg_1">
     <div class="slider_text">
         <div class="container">
             <div class="position_relv">
                 <div class="row">
                     <div class="col-12">
-                        <h3 class="display-3 mb-4">Committee</h3>
+                        <h3 class="display-4 mb-4 text-white animated bounceInLeft">Committee</h3>
 
                         <div class="row">
                             <div class="col-md-3 order-md-9">
-                                <ul class="nav flex-column nav-pills mb-3 sticky-top" id="pills-tab" role="tablist" style="top: 150px; z-index: 1;">
+                                <ul class="nav flex-column nav-pills mb-3 sticky-top card card-body" id="pills-tab" role="tablist" style="top: 150px; z-index: 1;">
                                     <li class="nav-item" role="presentation">
                                         <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Steering Committee</a>
                                     </li>
@@ -21,7 +21,7 @@
                                 </ul>
                             </div>
                             <div class="col-md-9">
-                                <div class="tab-content" id="pills-tabContent">
+                                <div class="tab-content card card-body" id="pills-tabContent">
                                     <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                                         <div class="table-responsive">
                                             <table class="table table-bordered" style="border-radius:20px">

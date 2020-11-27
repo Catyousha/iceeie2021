@@ -5,7 +5,7 @@
             <div class="row">
                <div class="col-xl-12 col-lg-12">
                   <h3 class="display-4 mb-5 text-white animated bounceInLeft">Conference Schedule</h3>
-                  <div class="my-5 card card-body" style="padding: 150px;">
+                  <div class="my-5 card card-body" style="padding: 50px;">
                     <?php /*
                       <table class="table table-bordered" align="center">
                         <tr>
@@ -79,7 +79,7 @@
 
                <div class="col-xl-12 col-lg-12">
                   <h3 class="display-4 mb-5 text-white animated bounceInLeft">Parallel Schedule</h3>
-                  <div class="my-5 card card-body" style="padding: 150px;">
+                  <div class="my-5 card card-body" style="padding: 50px;">
                     <?php /*
                       <div align="center">
                           <iframe src="https://drive.google.com/file/d/1LkVX6pkY6MnXIDaVAMQwV03rmQd6cBAz/preview" width="100%" height="500px"></iframe>
