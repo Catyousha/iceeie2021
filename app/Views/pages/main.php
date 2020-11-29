@@ -45,15 +45,10 @@
            <div class="row">
               <div class="col-xl-9 offset-xl-1 col-md-12">
                  <div class="about_info">
-                    <div class="section_title">
+                    <div class="section_title mb-4">
                        <span class="sub_heading">ICEEIE 2021</span>
                        <h3>Technological Breakthrough for Greater New Life</h3>
                     </div>
-                    <div class="logo-img">
-                        <a href="<?=site_url('')?>">
-                            <img src="assets/img/logoiceeie.png" height="100px" style="width: auto;" alt="">
-                        </a>
-                     </div>
                     <p class="text-justify mb-0">
                         The 7th International Conference on Electrical, Electronics and Information Engineering ( ICEEIE 2021) is organized by Electrical Engineering Department, Universitas Negeri Malang (State University of Malang) supported by its partners which is to be held in Malang (Indonesia). The  ICEEIE 2021 has been recorded in <a href="http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=47180">IEEE with ID Number is 47180</a> for the Technical Co-Sponsor. In general, the  ICEEIE 2021 is presented in series for increasing quality and management associated with previous events for 2009 The 1st National Seminar on Electrical, Electronic and Its Education (SNEIE 2009), 2011 The 2nd National Seminar on Electrical Engineering, Informatics and its Education (SEEIE 2011), 2013 The 3rd Seminar on Electrical Engineering, Informatics and its Education (SNEEIE 2013), 2015 The 4th Conference on Electrical Engineering, Informatics (CEIE 2015), 2017 The 5th International Conference on Electrical Engineering, Informatics, and its Education (ICEEIE 2017), 2019 The 6th International Conference on Electrical, Electronics and Information Engineering (ICEEIE 2019) 
                     </p>
