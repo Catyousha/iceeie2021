@@ -1,5 +1,7 @@
 <?php namespace App\Controllers;
 
+use CodeIgniter\Exceptions\PageNotFoundException;
+
 class Home extends BaseController{
 
     private function view($name){
@@ -21,7 +23,7 @@ class Home extends BaseController{
      * Paper Status
      */
 	public function paperStatus(){
-        $this->view('pages/paper-status');
+	    throw PageNotFoundException::forPageNotFound();
     }
 
     /**

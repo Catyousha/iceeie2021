@@ -18,7 +18,6 @@
                         <nav>
                            <ul id="navigation">
                               <li><a class="<?= current_url(true)->getSegment(1) == '' ? 'active': '' ?>" href="/">Home</a></li>
-                              <li><a class="<?= current_url(true)->getSegment(1) == 'paper-status' ? 'active': '' ?>" href="<?=site_url('/paper-status');?>">Paper Status</a></li>
                               <li><a class="<?= current_url(true)->getSegment(1) == 'committee' ? 'active': '' ?>" href="<?=site_url('/committee');?>">Committee</a></li>
                               <li><a class="<?= current_url(true)->getSegment(1) == 'topics' ? 'active': '' ?>" href="<?=site_url('/topics');?>">Topics</a></li>
                               <li>
