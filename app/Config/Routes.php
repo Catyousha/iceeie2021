@@ -39,9 +39,10 @@ $routes->get('/conference/(:any)', 'Home::conference/$1');
 $routes->get('/contacts', 'Home::contacts');
 
 $routes->get('/travel', 'Home::travel');
-$routes->get('/paper/submission', 'Home::paperSubmission');
-$routes->get('/paper/important-dates', 'Home::paperImportantDates');
-$routes->get('/paper/template', 'Home::paperTemplate');
+$routes->get('/for-author/submission-guideline', 'Home::submissionGuideline');
+$routes->get('/for-author/paper-submission', 'Home::paperSubmission');
+$routes->get('/for-author/important-dates', 'Home::paperImportantDates');
+$routes->get('/for-author/paper-template', 'Home::paperTemplate');
 
 /**
  * --------------------------------------------------------------------

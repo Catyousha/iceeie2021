@@ -32,9 +32,10 @@
                               <li>
                                  <a class="<?= current_url(true)->getSegment(1) == 'paper' ? 'active': '' ?>" href="#">For Authors<i class="ti-angle-down ml-1"></i></a>
                                  <ul class="submenu">
-                                    <li><a href="<?=site_url('/paper/submission');?>">Paper Submission</a></li>
-                                    <li><a href="<?=site_url('/paper/important-dates');?>">Important Dates</a></li>
-                                    <li><a href="<?=site_url('/paper/template');?>">Template</a></li>
+                                     <li><a href="<?=site_url('/for-author/submission-guideline');?>">Submission Guideline</a></li>
+                                     <li><a href="<?=site_url('/for-author/paper-submission');?>">Paper Submission</a></li>
+                                    <li><a href="<?=site_url('/for-author/important-dates');?>">Important Dates</a></li>
+                                    <li><a href="<?=site_url('/for-author/paper-template');?>">Template</a></li>
                                  </ul>
                               </li>
                               <li><a href="<?=site_url('/contacts');?>">Contacts</a></li>

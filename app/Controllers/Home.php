@@ -48,21 +48,28 @@ class Home extends BaseController{
     }
 
     /**
-     * Paper > Submission
+     * For Author > Submission Guideline
+     */
+    public function submissionGuideline(){
+        $this->view('pages/submission-guideline');
+    }
+
+    /**
+     * For Author > Paper Submission
      */
     public function paperSubmission(){
         $this->view('pages/paper-submission');
     }
 
     /**
-     * Paper > Important Dates
+     * For Author > Important Dates
      */
     public function paperImportantDates(){
         $this->view('pages/paper-important-dates');
     }
 
     /**
-     * Paper > Template
+     * For Author > Template
      */
     public function paperTemplate(){
         $this->view('pages/paper-template');
